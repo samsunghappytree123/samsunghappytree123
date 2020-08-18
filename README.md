@@ -3,6 +3,10 @@
 
 디스코드 : [삼성해피트리#7612](https://discord.com/users/726350177601978438), 메일 : [samsunghappytree123@naver.com](mailto:samsunghappytree123@naver.com)
 
+![github status](https://github-readme-stats.vercel.app/api?username=samsunghappytree123&theme=cobalt&show_icons=true)
+
+![github status](https://github-readme-stats.vercel.app/api/top-langs/?username=samsunghappytree123&theme=cobalt&show_icons=true)
+
 ---
 
 ## [Sisby Offical Site](https://sisby.ga), [Sisby Support](https://discord.gg/HWZBBnR)
