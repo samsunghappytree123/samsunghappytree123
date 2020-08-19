@@ -5,7 +5,7 @@
 
 [![github status](https://github-readme-stats.vercel.app/api?username=samsunghappytree123&show_icons=true)](https://github.com/samsunghappytree123)
 
-[![github status](https://github-readme-stats.vercel.app/api/top-langs/?username=samsunghappytree123&show_icons=true)](https://github.com/samsunghappytree123)
+[![github status](https://github-readme-stats.vercel.app/api/top-langs/?username=samsunghappytree123&show_icons=true&layout=compact)](https://github.com/samsunghappytree123)
 
 ---
 
