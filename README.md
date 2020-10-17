@@ -15,7 +15,7 @@ I develop websites and discord bots.
 
 ### Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsunghappytree123&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=8)](https://github.com/kiki7000/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsunghappytree123&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=8)](https://github.com/samsunghappytree123)
 
 ### Links
 + Discord : [Happytree Samsung#7612](https://discord.com/users/726350177601978438)
