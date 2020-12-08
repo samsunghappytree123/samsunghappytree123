@@ -6,7 +6,7 @@ I develop websites and discord bots.
 ### Projects
 + [prforest](https://discord.gg/kbWbVU4) - Promotion For Discord
 + [Team HT](https://github.com/teamht) - Develop For Discord Bot
-+ [DisTube](https://github.com/distube-github) - Upload a video about Discord!
++ [DisTube](https://github.com/distube-official) - Upload a video about Discord!
 
 [See More...](https://github.com/samsunghappytree123?tab=repositories)
 
@@ -21,4 +21,4 @@ I develop websites and discord bots.
 ### Links
 + Discord : [Happytree Samsung#7612](https://discord.com/users/726350177601978438)
 + E-Mail : [samsunghappytree123@naver.com](mailto:samsunghappytree123@naver.com)
-+ [My Portfolio](https://devht.tk)
++ [My Portfolio](https://devht.ga)
