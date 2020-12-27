@@ -19,7 +19,7 @@
 ## 내가 좋아하는 것
 + [🎤 IU (아이유)](https://namu.wiki/w/%EC%95%84%EC%9D%B4%EC%9C%A0)
 + [🍎 APPLE (iPhone, Mac 등...)](https://apple.com/kr)
-+ ⛏ Develop (사이트, 디스코드 봇 등...
++ ⛏ Develop (사이트, 디스코드 봇 등...)
 
 ## 깃허브
 ![samsunghappytree's github status](https://github-readme-stats.vercel.app/api?username=samsunghappytree123&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
