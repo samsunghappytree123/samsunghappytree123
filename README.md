@@ -4,9 +4,10 @@ I am a student developer in South Korea.
 I develop websites and discord bots. 
 
 ### Projects
-+ [prforest](https://discord.gg/kbWbVU4) - Promotion For Discord
-+ [Team HT](https://github.com/teamht) - Develop For Discord Bot
++ [prforest](https://discord.gg/kbWbVU4) - Promotion For Discord.
++ [Team HT](https://github.com/teamht) - Develop For Discord Bot.
 + [DisTube](https://github.com/distube-official) - Upload a video about Discord!
++ [UniqueCode](https://github.com/UniqueCodeGit) - Develop For Discord Bot.
 
 [See More...](https://github.com/samsunghappytree123?tab=repositories)
 
