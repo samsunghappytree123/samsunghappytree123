@@ -8,7 +8,7 @@
 + [Team HT](https://github.com/teamht) - Team HT는 디스코드 봇을 만들고 있습니다!
 + [DisTube](https://github.com/distube-official) - 디스코드에 관련된 영상을 올리는 DisTube를 운영하고 있어요! ~~1인운영~~
 + [UniqueCode](https://github.com/UniqueCodeGit) - UniqueCode에서 웹사이트 개발자로 일하고 있습니다!
-+ 새로운 프로젝트 - 아직 준비중이에요! 나주엥 때가 되면 알려드리죠 후후.
++ 새로운 프로젝트 - 아직 준비중이에요! 나중에 때가 되면 알려드리죠 후후.
 
 ## 나를 이렇게 불러주세요!
 + 삼성해피트리
