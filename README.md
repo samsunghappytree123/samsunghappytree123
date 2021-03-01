@@ -4,7 +4,7 @@
 저는 다양한 디스코드 봇과 사이트, 그리고 프로젝트들을 진행하고 있어요!
 
 ## 내 프로젝트들
-+ [홍보숲](https://discord.gg/kbWbVU4) - 디스코드 서버를 홍보해보세요!
++ [홍보숲](https://discord.gg/FDCxq3ANcv) - 디스코드 서버를 홍보해보세요!
 + [Team HT](https://github.com/teamht) - Team HT는 디스코드 봇을 만들고 있습니다!
 + [DisTube](https://github.com/distube-official) - 디스코드에 관련된 영상을 올리는 DisTube를 운영하고 있어요! ~~1인운영~~
 + [UniqueCode](https://github.com/UniqueCodeGit) - UniqueCode에서 웹사이트 개발자로 일하고 있습니다!
