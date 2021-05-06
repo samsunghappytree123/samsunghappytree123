@@ -28,8 +28,7 @@
 ## 저의 링크들
 + [디스코드](https://discord.com/users/726350177601978438)
 + [이메일](mailto:samsunghappytree123@naver.com)
++ [My Portfolio](https://devht.xyz)
 + [인스타그램](https://www.instagram.com/samsunghappytree)
 + [페이스북](https://www.facebook.com/samsunghappytree123)
-+ [페이스북](https://www.facebook.com/jys2008)
 + [트위터](https://twitter.com/happytree0418)
-+ [My Portfolio](https://devht.cf)
