@@ -4,9 +4,8 @@
 저는 다양한 디스코드 봇과 사이트, 그리고 프로젝트들을 진행하고 있어요!
 
 ## 내 프로젝트들
-+ [Dico Station](https://discord.gg/rEUDBPgKR9) - 디스코드 서버를 홍보해보세요!
 + [Team HT](https://github.com/teamht) - Team HT는 디스코드 봇을 만들고 있습니다!
-+ [DisTube](https://github.com/distube-official) - 디스코드에 관련된 영상을 올리는 DisTube를 운영하고 있어요! ~~1인운영~~
++ [DisTube](https://github.com/DisTube0728) - 디스코드에 관련된 영상을 올리는 DisTube를 운영하고 있어요! ~~1인운영~~
 + [UniqueCode](https://github.com/UniqueCodeGit) - UniqueCode에서 웹사이트 개발자로 일하고 있습니다!
 
 ## 나를 이렇게 불러주세요!
@@ -28,7 +27,6 @@
 ## 저의 링크들
 + [디스코드](https://discord.com/users/726350177601978438)
 + [이메일](mailto:samsunghappytree123@naver.com)
-+ [My Portfolio](https://devht.xyz)
-+ [인스타그램](https://www.instagram.com/samsunghappytree)
-+ [페이스북](https://www.facebook.com/samsunghappytree123)
++ [포트플리오](https://devht.xyz)
++ [인스타그램](https://www.instagram.com/samsunghappytree123)
 + [트위터](https://twitter.com/happytree0418)
