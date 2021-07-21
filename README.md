@@ -22,7 +22,7 @@
 ## 깃허브
 ![깃허브 스탯](https://github-readme-stats.vercel.app/api?username=samsunghappytree123&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![사용 언어 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=samsunghappytree123&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=8)
+![사용 언어 순위](https://githhttps://github-readme-stats.vercel.app/api/top-langs/?username=samsunghappytree123&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)
 
 ## 저의 링크들
 + [디스코드](https://discord.com/users/726350177601978438)
