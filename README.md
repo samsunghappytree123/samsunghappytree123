@@ -8,18 +8,18 @@
 + [DisTube](https://github.com/DisTube0728) - 디스코드에 관련된 영상을 올리는 DisTube를 운영하고 있어요! ~~1인운영~~
 + [UniqueCode](https://github.com/UniqueCodeGit) - UniqueCode에서 웹사이트 개발자로 일하고 있습니다!
 
-## 나를 이렇게 불러주세요!
-+ 삼성해피트리
-+ 해피트리 삼성
-+ 해트삼
-+ 삼해트
-
 ## 내가 좋아하는 것
 + [🎤 IU (아이유)](https://namu.wiki/w/%EC%95%84%EC%9D%B4%EC%9C%A0)
 + [🍎 APPLE (iPhone, Mac 등...)](https://apple.com/kr)
 + ⛏ Develop (사이트, 디스코드 봇 등...)
 
-## 깃허브
+## 오픈소스
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsunghappytree123&repo=makead&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)](https://github.com/samsunghappytree123/makead)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsunghappytree123&repo=discord-oauth-guilds.join&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)](https://github.com/samsunghappytree123/discord-oauth-guilds.join)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=distube0728&repo=discordpy_basic_bot&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)](https://github.com/DisTube0728/discordpy_basic_bot)
+
+
+## 현황
 ![깃허브 스탯](https://github-readme-stats.vercel.app/api?username=samsunghappytree123&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![사용 언어 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=samsunghappytree123&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)
