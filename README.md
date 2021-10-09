@@ -14,7 +14,7 @@
 + ⛏ Develop (사이트, 디스코드 봇 등...)
 
 ## 오픈소스
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsunghappytree123&repo=makead&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)](https://github.com/samsunghappytree123/discord-Promotion-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsunghappytree123&repo=discord-Promotion-bot&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)](https://github.com/samsunghappytree123/discord-Promotion-bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samsunghappytree123&repo=discord-oauth2-guilds.join&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)](https://github.com/samsunghappytree123/discord-oauth2-guilds.join)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=distube0728&repo=discordpy_basic_bot&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)](https://github.com/DisTube0728/discordpy_basic_bot)
 
